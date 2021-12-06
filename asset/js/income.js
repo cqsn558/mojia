@@ -14,7 +14,7 @@ layui.define(['jquery'], function(exports) {
 					html += '</a></td></tr></tbody></table>';
 				});
 				html += '</tbody></table>';
-				$('.mo-unit-table').before(html);
+				//$('.mo-unit-table').before(html);
 			},
 			'info': [{
 				'name': '米上云香港GIA VPS20元起，购买魔加主题的新用户，赠送米上云香港VPS一个月使用时间！',
